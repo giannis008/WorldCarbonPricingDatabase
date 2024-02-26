@@ -14,7 +14,7 @@ import pandas as pd
 import numpy as np
 
 
-stream = open("/Users/gd/GitHub/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/jurisdictions.py")
+stream = open("/Users/giannispapazoglou/Desktop/GitHub_code/WorldCarbonPricingDatabase/_code/_compilation/_dependencies/jurisdictions.py")
 read_file = stream.read()
 exec(read_file)
 
